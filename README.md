@@ -74,14 +74,40 @@ RA=7.2KΩ, RB= 3.6KΩ
 5.	Theoretically calculate the pulse duration as T=1.1 RAC
 
 
+  **PIN DIAGRAM:**
+  <img width="1280" height="845" alt="WhatsApp Image 2026-09-14 at 9 25 34 PM" src="https://github.com/user-attachments/assets/1d7d9f52-bc2d-42de-9b16-4cb4a8d44c35" />
 
+  **MONOSTABLE MULTIVIBRATOR:**
   **CIRCUIT DIAGRAM**
+<img width="1280" height="1141" alt="WhatsApp Image 2026-09-14 at 9 25 49 PM" src="https://github.com/user-attachments/assets/bd01dd72-1446-4022-83a2-b06f8f1a4a2f" />
 
 
-  **MODEL GRAPH:**
+   **MODEL GRAPH:**
+<img width="1280" height="1038" alt="WhatsApp Image 2026-09-14 at 9 26 16 PM" src="https://github.com/user-attachments/assets/9c3d276f-ece2-4492-a82f-93afc994e49d" />
 
 
   **TABULATION:**
+  <img width="1280" height="960" alt="WhatsApp Image 2026-09-14 at 9 26 02 PM" src="https://github.com/user-attachments/assets/5cd2e1a6-7e2f-4869-a2ac-1b0a05c732a3" />
+
+  **GRAPH:**
+  <img width="1280" height="937" alt="WhatsApp Image 2026-09-14 at 9 29 22 PM" src="https://github.com/user-attachments/assets/0080a1c7-c160-4ad3-8620-b6ff67030564" />
+
+  **ASTABLE MULTIVIBRATOR:**
+  **CIRCUIT DIAGRAM**
+  <img width="1242" height="1280" alt="WhatsApp Image 2026-09-14 at 9 26 29 PM" src="https://github.com/user-attachments/assets/9d103f16-f5be-49be-8233-c76d65ced1ef" />
+
+  **MODEL GRAPH:**
+  <img width="1280" height="1154" alt="WhatsApp Image 2026-09-14 at 9 29 04 PM" src="https://github.com/user-attachments/assets/22328fd1-b57c-4de2-af2e-8f7eaad8ba0b" />
+
+  
+  **TABULATION:**
+  <img width="1280" height="728" alt="WhatsApp Image 2026-09-14 at 9 26 46 PM" src="https://github.com/user-attachments/assets/b971ca51-a118-4f88-8d0a-24288801af3d" />
+
+  
+  **GRAPH:**
+  
+  <img width="1280" height="731" alt="WhatsApp Image 2026-09-14 at 9 29 41 PM" src="https://github.com/user-attachments/assets/484470b7-39d7-4fea-aebf-32ede313c0d0" />
+
  
 
 
